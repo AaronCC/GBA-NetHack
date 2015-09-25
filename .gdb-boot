@@ -1,0 +1,4 @@
+target remote localhost:55555
+symbol-file main.elf
+load main.elf
+continue
