@@ -3,6 +3,7 @@
 *.ko
 *.obj
 *.elf
+*.gba
 
 # Precompiled Headers
 *.gch
@@ -30,3 +31,11 @@
 
 # Debug files
 *.dSYM/
+
+# Vim
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
